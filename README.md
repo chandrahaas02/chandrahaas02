@@ -12,7 +12,7 @@
 [![Twitter Badge](https://img.shields.io/badge/-chandrahaas02-00acee?style=flat-circle&logo=Twitter&logoColor=white&link=https://twitter.com/intent/follow?screen_name=chandrahaas02)](https://twitter.com/Chandrahaas02 "Follow on Twitter")
 [![Gmail Badge](https://img.shields.io/badge/-chandrahaas02@gmail.com-c14438?style=flat-circle&logo=gmail&logoColor=white&link=mailto:chandrahaas02@gmail.com)](mailto:chandrahaas02@gmail.com "Connect via Email")
 
-[![blogger](https://img.shields.io/badge/-chandrahaas02-green?style=flat-circle&logo=blogger&logoColor=white&link=chandrahaas02.github.io/myblog)](https://chandrahaas02.github.io/myblog/ "vist my blog")
+
 
 ## Languages, Tools and Technologies
 
